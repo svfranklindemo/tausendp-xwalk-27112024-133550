@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/tausendp/tausendp-2024-11-27-14-34-55/:/
+ - /content/tausendp/tausendp-2024-11-27-14-34-55/metadata.json:/metadata.json
+ - /content/tausendp/tausendp-2024-11-27-14-34-55/redirects.json:/redirects.json
